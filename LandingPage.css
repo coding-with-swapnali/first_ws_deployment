@@ -1,0 +1,481 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.landing-page-block {
+  display: flex;
+  flex-direction: column;
+  background-color: white; }
+
+.landing-page-block.layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 1068px;
+  flex-shrink: 0; }
+
+.landing-page-group {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-group.layout1 {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 84.72%;
+  margin: 30px auto; }
+
+.landing-page-highlights2 {
+  display: flex;
+  justify-content: flex-end;
+  font: 700 15px/1.2 "Verdana", Helvetica, Arial, serif;
+  color: #696871;
+  text-align: right;
+  letter-spacing: -0.4689474105834961px; }
+
+.landing-page-highlights2.layout {
+  position: absolute;
+  top: 14px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 976px;
+  left: 0px;
+  right: 0px;
+  width: 28.69%;
+  margin: 0px auto; }
+
+.landing-page-flex {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 100%;
+  margin: 0px auto; }
+
+.landing-page-flex1 {
+  display: flex; }
+
+.landing-page-flex1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 87.87%;
+  margin: 0px auto; }
+
+.landing-page-flex1-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 200px; }
+
+.landing-page-block3 {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-block3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 10px 0px 9px; }
+
+.landing-page-block4 {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-block4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 1px 0px; }
+
+.landing-page-block5 {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+  -o-object-fit: contain;
+  object-fit: contain;
+  -o-object-position: center top;
+  object-position: center top; }
+
+.landing-page-block5.layout {
+  position: relative; }
+
+.landing-page-flex1-spacer {
+  flex: 0 1 173px; }
+
+.landing-page-flex1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 327px; }
+
+.landing-page-block2 {
+  display: flex; }
+
+.landing-page-block2.layout {
+  position: relative;
+  overflow: hidden;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 14px 0px; }
+
+.landing-page-block2-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 51px; }
+
+.landing-page-flex2 {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-flex2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.landing-page-highlights1 {
+  font: 700 15px/1.2 "Verdana", Helvetica, Arial, serif;
+  color: #18181a;
+  letter-spacing: -0.46895px; }
+
+.landing-page-highlights1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.landing-page-line {
+  background-color: #5454d4; }
+
+.landing-page-line.layout {
+  position: relative;
+  height: 2px;
+  margin: 12px 10px 0px 0px; }
+
+.landing-page-block2-spacer {
+  flex: 0 1 40px; }
+
+.landing-page-highlights21 {
+  font: 700 15px/1.2 "Verdana", Helvetica, Arial, serif;
+  color: #696871;
+  letter-spacing: -0.46895px; }
+
+.landing-page-highlights21.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 14px; }
+
+.landing-page-block2-spacer1 {
+  flex: 0 1 36px; }
+
+.landing-page-highlights22 {
+  font: 700 15px/1.2 "Verdana", Helvetica, Arial, serif;
+  color: #696871;
+  letter-spacing: -0.46895px; }
+
+.landing-page-highlights22.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 66px 14px 0px; }
+
+.landing-page-flex1-spacer1 {
+  flex: 0 1 159px; }
+
+.landing-page-flex1-item2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 211px; }
+
+.landing-page-cover-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #ff7143;
+  border-radius: 10px 10px 10px 10px; }
+
+.landing-page-cover-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.landing-page-highlights {
+  display: flex;
+  justify-content: center;
+  font: 700 17px/1.2 "Verdana", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: -0.5314737558364868px; }
+
+.landing-page-highlights.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 108px;
+  min-width: 108px;
+  margin: 19px auto 20px; }
+
+.landing-page-group.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 93.93%;
+  margin: 100px 0% 0px 6.07%; }
+
+.landing-page-hero-title-box.layout {
+  position: absolute;
+  top: 92px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  bottom: 321px;
+  left: 0px;
+  right: 0px;
+  width: 43.8%;
+  margin: 0px 56.2% 0px 0%; }
+
+.landing-page-hero-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 700 80px/0.96 "Verdana", Helvetica, Arial, serif;
+  color: #18181a;
+  letter-spacing: -2.50105px;
+  white-space: pre-wrap; }
+
+.landing-page-flex3 {
+  display: flex; }
+
+.landing-page-flex3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 100%;
+  margin: 0px auto; }
+
+.landing-page-flex3-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 469px; }
+
+.landing-page-block1 {
+  display: flex;
+  flex-direction: column; }
+
+.landing-page-block1.layout {
+  position: relative;
+  overflow: hidden;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 353px 0px 91px; }
+
+.landing-page-subtitle {
+  font: 20px/1.5 "Mulish", Helvetica, Arial, serif;
+  color: #696871;
+  letter-spacing: -0.62526px; }
+
+.landing-page-subtitle.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content; }
+
+.landing-page-flex4 {
+  display: flex; }
+
+.landing-page-flex4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 42px 0px 0px; }
+
+.landing-page-flex4-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 211px; }
+
+.landing-page-cover-block2 {
+  display: flex;
+  flex-direction: column;
+  background-color: #5454d4;
+  border-radius: 10px 10px 10px 10px; }
+
+.landing-page-cover-block2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 8px 0px 0px; }
+
+.landing-page-flex4-spacer {
+  flex: 0 1 40px; }
+
+.landing-page-flex4-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 60px; }
+
+.landing-page-cover-block1 {
+  display: flex;
+  flex-direction: column;
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-cover-block1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 8px; }
+
+.landing-page-image7 {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+  -o-object-fit: contain;
+  object-fit: contain;
+  -o-object-position: center top;
+  object-position: center top; }
+
+.landing-page-image7.layout {
+  position: relative;
+  width: 21px;
+  min-width: 21px;
+  margin: 19px 19px 19px 20px; }
+
+.landing-page-flex3-spacer {
+  flex: 0 1 67px; }
+
+.landing-page-flex3-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 610px; }
+
+.landing-page-image {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image.layout {
+  position: relative;
+  height: 644px; }
+
+.landing-page-flex5 {
+  display: flex; }
+
+.landing-page-flex5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 87.54%;
+  margin: 100px auto 56px; }
+
+.landing-page-flex5-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 119px; }
+
+.landing-page-image8 {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image8.layout {
+  position: relative;
+  height: 28px;
+  width: 119px;
+  min-width: 119px;
+  margin: 10px 0px; }
+
+.landing-page-flex5-spacer {
+  flex: 0 1 120px; }
+
+.landing-page-flex5-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 124px; }
+
+.landing-page-image9 {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image9.layout {
+  position: relative;
+  height: 28px;
+  width: 124px;
+  min-width: 124px;
+  margin: 10px 0px; }
+
+.landing-page-flex5-spacer1 {
+  flex: 0 1 121px; }
+
+.landing-page-flex5-item2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 100px; }
+
+.landing-page-image10 {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image10.layout {
+  position: relative;
+  height: 48px;
+  width: 100px;
+  min-width: 100px; }
+
+.landing-page-flex5-spacer2 {
+  flex: 0 1 119px; }
+
+.landing-page-flex5-item3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 118px; }
+
+.landing-page-image11 {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image11.layout {
+  position: relative;
+  height: 24px;
+  width: 118px;
+  min-width: 118px;
+  margin: 12px 0px; }
+
+.landing-page-flex5-item4 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 126px; }
+
+.landing-page-image12 {
+  background: var(--src) center center/contain no-repeat; }
+
+.landing-page-image12.layout {
+  position: relative;
+  height: 30px;
+  width: 126px;
+  min-width: 126px;
+  margin: 9px 0px; }
